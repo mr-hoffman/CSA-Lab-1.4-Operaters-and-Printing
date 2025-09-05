@@ -11,7 +11,7 @@ Complete a method to convert a time (in minutes) to hours and the remaining minu
 
 Your output should look like this:
 ```
-Enter the number of minutes :: 625 \n
+Enter the number of minutes :: 625
 625 is 10 hours and 25 minutes
 ```
 
@@ -20,8 +20,8 @@ An object’s momentum is its mass multiplied by its velocity. Write a program t
 
 Your output should look like this:
 ```
-Enter the mass :: 10 \n
-Enter the velocity :: 5\n
+Enter the mass :: 10 
+Enter the velocity :: 5
 Momentum == 50
 ```
 
@@ -30,8 +30,8 @@ The kinetic energy of a moving object is given by the formula KE = ½ mv2, where
 
 Your output should look like this:
 ```
-Enter the mass :: 10\n
-Enter the velocity :: 5\n
+Enter the mass :: 10
+Enter the velocity :: 5
 Kinetic energy == 125
 ```
 
@@ -40,9 +40,9 @@ An employee’s total work pay equals the hourly wage multiplied by the total nu
 
 Your output should look like this, but don't worry about the decimal places, and you get the $ by printing it:
 ```
-Enter the number of hours :: 40\n
-Enter the hours of overtime :: 4\n
-Enter the hourly wage :: 12.5\n
+Enter the number of hours :: 40
+Enter the hours of overtime :: 4
+Enter the hourly wage :: 12.5
 40 hours plus 4 overtime at $12.5 is $575.0
 ```
 # Lab 1.4.5: Coin Total
@@ -57,6 +57,17 @@ Enter the number of pennies :: 3
 10q's, 5d's, 4n's, and 3p's is 323 cents
 ```
 
+# Lab 1.4.6: Dooflingies:
+The shipping clerk at the Rinky Dooflingy Company is faced with the following problem:  Dooflingies are very delicate and must be shipped in special containers.  These containers are available in four sizes:  huge, large, medium, and small, which can hold 50, 20, 5, and 1 dooflingy, respectively.  Your program should allow a user to input any total number of dooflingies to be shipped and then display the number of huge, large, medium, and small containers needed to send the shipment in the minimum number of containers, and with the minimum amount of wasted space.  
 
+The output should look like this:
+```
+Enter the number of Dooflingies :: 1098
+Container    Number
+Huge         21
+Large        2
+Medium       1
+Small        3
+```
 
 
