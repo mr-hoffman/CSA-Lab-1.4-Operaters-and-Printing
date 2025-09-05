@@ -45,7 +45,7 @@ Enter the hours of overtime :: 4\n
 Enter the hourly wage :: 12.5\n
 40 hours plus 4 overtime at $12.5 is $575.0
 ```
-# Lab 1.4.4: Coin Total
+# Lab 1.4.5: Coin Total
 Write a program that prompts the user for the number of each type of coin and prints the total value. The program should ask for four inputs: quarters, dimes, nickels, and pennies (in that order). 
 
 Your output should look like this:
