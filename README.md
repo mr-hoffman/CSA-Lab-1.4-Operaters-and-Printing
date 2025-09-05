@@ -11,7 +11,7 @@ Complete a method to convert a time (in minutes) to hours and the remaining minu
 
 Your output should look like this:
 
-`Enter the number of minutes :: 625
+`Enter the number of minutes :: 625 \n
 625 is 10 hours and 25 minutes`
 
 ## Lab 1.4.2: Momentum
@@ -19,8 +19,8 @@ An object’s momentum is its mass multiplied by its velocity. Write a program t
 
 Your output should look like this:
 
-`Enter the mass :: 10
-Enter the velocity :: 5
+`Enter the mass :: 10 \n
+Enter the velocity :: 5\n
 Momentum == 50`
 
 ## Lab 1.4.3: Kinetic Energy
@@ -28,8 +28,8 @@ The kinetic energy of a moving object is given by the formula KE = ½ mv2, where
 
 Your output should look like this:
 
-`Enter the mass :: 10
-Enter the velocity :: 5
+`Enter the mass :: 10\n
+Enter the velocity :: 5\n
 Kinetic energy == 125`
 
 ## Lab 1.4.4: Calculate Paycheck
@@ -37,9 +37,9 @@ An employee’s total work pay equals the hourly wage multiplied by the total nu
 
 Your output should look like this, but don't worry about the decimal places, and you get the $ by printing it:
 
-`Enter the number of hours :: 40
-Enter the hours of overtime :: 4
-Enter the hourly wage :: 12.5
+`Enter the number of hours :: 40\n
+Enter the hours of overtime :: 4\n
+Enter the hourly wage :: 12.5\n
 40 hours plus 4 overtime at $12.5 is $575.0`
 
 # Lab 1.4.4: Coin Total
@@ -47,10 +47,10 @@ Write a program that prompts the user for the number of each type of coin and pr
 
 Your output should look like this:
 
-`Enter the number of quarters :: 10
-Enter the number of dimes :: 5
-Enter the number of nickels :: 4
-Enter the number of pennies :: 3
+`Enter the number of quarters :: 10\n
+Enter the number of dimes :: 5\n
+Enter the number of nickels :: 4\n
+Enter the number of pennies :: 3\n
 10q's, 5d's, 4n's, and 3p's is 323 cents`
 
 
